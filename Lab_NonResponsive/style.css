@@ -1,0 +1,116 @@
+/* Change the font for the whole page */
+h1 {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+#header {
+    margin-bottom: -40px;
+}
+
+#SignUp {
+    text-align: center;
+}
+
+#subheader {
+    margin-top: 10px;
+    margin-bottom: 70px;
+}
+
+h2 {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+h3 {
+    font-family: "IBM Plex Serif", serif;
+    font-weight: 600;
+    font-style: normal;
+
+}
+
+p {
+    font-family: "IBM Plex Serif", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+/* Add contrast of main heading and subheadings */
+h1 {
+    font-size: 3.5em;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2em;
+    text-align: center;
+}
+
+h3 {
+    font-size: 1.5em;
+    text-align: center;
+}
+
+h4 {
+    font-size: 1.5em;
+    text-align: center;
+}
+ ul {
+    font-family: "IBM Plex Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+ }
+footer {
+    text-align: center;
+}
+
+/* Center the whole content to the page */
+.container {
+    max-width: 910px;
+    margin: 0 auto 50px auto;
+}
+
+section {
+    text-align: center;
+}
+
+header {
+    border-bottom: 1px solid grey;
+}
+
+/* Moving the img side-to-side (multicolumn) layout */
+.activity-row {
+    display: flex;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.activity-col {
+    padding: 10px;
+}
+
+#button {
+    background-color: gray;
+    border: none;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-top: 30px;
+}
+
+#description {
+    text-align: justify;
+}
+
+#fyi {
+    text-align: justify;
+}
